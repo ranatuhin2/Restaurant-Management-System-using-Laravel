@@ -1,2 +1,3 @@
-# Restaurant-Management-System-using-Laravel
-Restaurant Management System using Laravel Framework,HTML,CSS,JavaScript,Jquery. Fully Dynamic with Lots of feature custom admin Panel 
+<h1>Author -- Tuhin Rana Mondal</h1>
+<br>
+find backup.sql file and import it to phpMyadmin & php artisan serve to run the project
